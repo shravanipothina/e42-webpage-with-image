@@ -1,9 +1,13 @@
 # Welcome to my website!
+my aassignment 
 
-As part of markdown format we have already seen few things in the class. Now we see how to set some text to **bold** or _italic_ and add image to the website.
-
-My name is **Rohini Barla**. I take _Gateway to R&D_ classes.
-
-Here are our students who got selected in Amazon company.
+love for nature and earth
 
 ![Our students selected in Amazon](flowers.jpg)
+a flower is a reproductive structure found in flowering plants. 
+
+![pottery](pottery.jpg)
+pottry is commonly made in villages .They use pots instead of utensils
+
+![snail](snail.jpg)
+a snail is a shelled gastropod that have a coiled shell.
